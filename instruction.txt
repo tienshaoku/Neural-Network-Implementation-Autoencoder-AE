@@ -1,0 +1,8 @@
+# homework 4, question 2
+
+# run 'num2.py'
+
+matplotlib==3.0.0
+numpy==1.15.2
+
+
